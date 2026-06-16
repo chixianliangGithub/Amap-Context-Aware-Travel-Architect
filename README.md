@@ -19,4 +19,4 @@
 确保本地已安装运行标准 OpenSpec 规范的智能体终端（如 OpenCode），将本仓库克隆至你的本地全局技能目录：
 ```bash
 cd ~/.config/opencode/skills/
-git clone [https://github.com/你的GitHub用户名/Amap-Context-Aware-Travel-Architect.git](https://github.com/你的GitHub用户名/Amap-Context-Aware-Travel-Architect.git)
+git clone [https://github.com/chixianliangGithub/Amap-Context-Aware-Travel-Architect.git](https://github.com/chixianliangGithub/Amap-Context-Aware-Travel-Architect.git)
