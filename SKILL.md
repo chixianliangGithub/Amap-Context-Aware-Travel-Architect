@@ -3,7 +3,7 @@ spec_version: "2.1.0"
 name: "global-travel-dependency-navigator"
 description: "高德开放平台专业扩展：面向商务差旅、家庭多依赖出行的空间精算与自媒体去AI味文风转换引擎。自适应唤醒于行程规划、商务接待、带娃自驾及自媒体发帖场景。"
 version: "1.0.0"
-author: "Weng Xiaojuan"
+author: "chixianliang"
 lifecycle:
   namespace: "opsx"
   triggers:
